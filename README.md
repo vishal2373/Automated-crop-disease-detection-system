@@ -1,11 +1,9 @@
-# SIH1638 - AI-Driven Crop Disease Prediction and Management System
+AI-Driven Crop Disease Prediction and Management System
 
 ## Overview
 
 **Project Name:** AI-Driven Crop Disease Prediction and Management System  
-**Track:** Agriculture, FoodTech & Rural Development  
-**Submitted for:** Smart India Hackathon (SIH) 2024  
-**Sponsored by:** Indian Council of Agricultural Research (ICAR)  
+**Track:** Agriculture, FoodTech & Rural Development   
 **Ministry:** Ministry of Agriculture and Farmers Welfare
 
 ---
