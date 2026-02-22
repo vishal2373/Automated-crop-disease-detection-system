@@ -1,8 +1,8 @@
-AI-Driven Crop Disease Prediction and Management System
+Automated Crop Disease Prediction and Management System
 
 ## Overview
 
-**Project Name:** AI-Driven Crop Disease Prediction and Management System  
+**Project Name:** Automated Crop Disease Prediction and Management System  
 **Track:** Agriculture, FoodTech & Rural Development   
 **Ministry:** Ministry of Agriculture and Farmers Welfare
 
